@@ -1,1 +1,1 @@
-Document Proyecto
+Documentando el curso de Git desarrollo colaborativo
